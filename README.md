@@ -14,22 +14,6 @@ I'm an MCA graduate and currently a Full Stack Intern at Casting Bell. I enjoy b
 
 ---
 
-## Featured Projects
-
-### 🎙️ Cymatic
-Voice-to-whiteboard AI that turns conversations into structured notes, diagrams, action items, and visual workflows.
-
-### ✈️ ChangiChirp
-AI-powered airport assistant built using FastAPI, LangChain, Ollama, and FAISS with retrieval-based search capabilities.
-
-### 💬 Solace
-Voice and text-based AI companion focused on accessible and natural conversations.
-
-### 🐶 PawSense
-Deep learning application that recognizes pet emotions from images using computer vision models.
-
----
-
 ## Currently Exploring
 
 - Agentic AI
